@@ -6,7 +6,7 @@ public class Book {
     int page;
 
     Book() {
-
+        this("","",0);
     }
 
     Book(String title, String author) {
